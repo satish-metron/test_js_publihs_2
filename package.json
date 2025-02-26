@@ -1,0 +1,29 @@
+{
+  "name": "js_test_publish_2",
+  "version": "1.0.0",
+  "description": "this is just a test dummy to see how we can publish and unpublish",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint .",
+    "build": "tsc",
+    "publish": "npm publish",
+    "unpublish": "npm unpublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satish-metron/test_js_publihs_2.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "satish-metron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satish-metron/test_js_publihs_2/issues"
+  },
+  "homepage": "https://github.com/satish-metron/test_js_publihs_2#readme",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
