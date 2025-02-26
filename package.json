@@ -1,6 +1,6 @@
 {
   "name": "js_test_publish_2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is just a test dummy to see how we can publish and unpublish",
   "main": "dist/index.js",
   "scripts": {
