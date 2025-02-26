@@ -1,14 +1,12 @@
 {
   "name": "js_test_publish_2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is just a test dummy to see how we can publish and unpublish",
   "main": "dist/index.js",
   "scripts": {
     "test": "test",
     "lint": "eslint .",
-    "build": "tsc",
-    "publish": "npm publish",
-    "unpublish": "npm unpublish"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
